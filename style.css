@@ -7,10 +7,14 @@
 html, body {
     height: 100%;
     margin: 0;
+    html, body {
+    overflow: hidden;
+}
+
 }
 
 .page{
-    min-height: 100vh; 
+    min-height: 100svh; 
     background-color: rgb(233, 237, 244);
     display: flex;
     align-items: center;
@@ -18,7 +22,7 @@ html, body {
    padding: 40px 0;
 }
 .app{
-    height: 800px;
+    max-height: 800px;
     width: 1200px;
     background-color: white;
     border-radius: 22px;
