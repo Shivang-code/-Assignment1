@@ -11,10 +11,9 @@ body{
     justify-content: center;
     min-height: 100vh;
     padding: 5vh 5vw;
-    overflow: hidden;
 }
 .app{
-    height: 700px;
+    height: 800px;
     width: 1200px;
     background-color: white;
     border-radius: 22px;
