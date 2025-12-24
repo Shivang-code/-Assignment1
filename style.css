@@ -12,8 +12,8 @@ body{
     min-height: 100vh;
 }
 .app{
-    height: 791px;
-    width: 1329px;
+    height: 691px;
+    width: 1229px;
     background-color: white;
     border-radius: 22px;
     display: grid;
