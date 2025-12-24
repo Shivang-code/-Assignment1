@@ -7,11 +7,10 @@
 html, body {
     height: 100%;
     margin: 0;
-    html, body {
     overflow: hidden;
 }
 
-}
+
 
 .page{
     min-height: 100svh; 
